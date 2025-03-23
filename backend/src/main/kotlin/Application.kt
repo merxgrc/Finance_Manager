@@ -5,6 +5,7 @@
 */
 package com.mrxgrc
 
+import com.mrxgrc.com.mrxgrc.finance.manager.api.configureRouting
 import io.ktor.http.*
 import io.ktor.server.application.*
 import io.ktor.server.netty.*

@@ -4,6 +4,11 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+
+# Sensitive configuration files (do not commit these)
+backend/src/main/resources/application.conf
+backend/gradle.properties
+
 ### STS ###
 .apt_generated
 .classpath
