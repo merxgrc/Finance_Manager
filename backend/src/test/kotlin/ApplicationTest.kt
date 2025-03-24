@@ -1,6 +1,6 @@
-package com.mrxgrc
+package com.mrxgrc.financemanager
 
-import com.mrxgrc.com.mrxgrc.finance.manager.api.configureRouting
+import com.mrxgrc.financemanager.api.configureRouting
 import io.ktor.client.request.*
 import io.ktor.client.statement.*
 import io.ktor.http.*

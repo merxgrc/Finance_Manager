@@ -4,7 +4,7 @@ plugins {
     alias(libs.plugins.kotlin.plugin.serialization)
 }
 
-group = "com.mrxgrc"
+group = "com.mrxgrc.financemanager"
 version = "0.0.1"
 
 application {
