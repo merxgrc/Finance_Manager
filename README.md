@@ -20,7 +20,7 @@ Start by cloning the repository into a project directory.
 * Backend: Set up a Gradle project on Intellij
     * Build: ./gradlew build
     * Run: ./gradlew run
-    * Visit server: localhost 8000
+    * Visit server: localhost 8080
 * Database:
     * In terminal install/setup PostgreSQL
     * Start connection to PostgreSQL: pg_ctl -D "C:\Program Files\PostgreSQL\17\data" start
